@@ -25,18 +25,16 @@ loginchecker();
 	<!--     Fonts and icons     -->
 	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
         <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" />
-	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />        
         
         
-        
-
 	<!-- CSS Files -->
         <link href="bootmdl/assets/css/bootstrap.min.css" rel="stylesheet" />
         <link href="bootmdl/assets/css/material-kit.css" rel="stylesheet"/>
         
         <!--Load the AJAX API-->
-    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
-    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script type="text/javascript" src="ajax-api/loader.js"></script>
+        <script type="text/javascript" src="ajax-api/ajax-api-jquery.min.js"></script>
     <script type="text/javascript">
     
     // Load the Visualization API and the piechart package.
